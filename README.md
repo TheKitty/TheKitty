@@ -7,7 +7,7 @@
 * :blue_book: I've written [two books](https://www.amazon.com/Anne-Barela/e/B00OA5RJIW) on learning to use microcontrollers
 * :heavy_plus_sign: I write and facilitate others writing [open source learning guides](https://learn.adafruit.com/) for Adafruit
 * 😄 Pronouns: she/her/hers
-* ⚡ Fun fact: I taught myself BASIC after getting a job to make a school attendance program on a Heath H89 before college.
+* ⚡ Fun fact: I taught myself BASIC after getting a job to make a school attendance program on a [Heath H89](https://en.wikipedia.org/wiki/Zenith_Z-89) before college.
 * :cookie: Previously: Security Engineer and Senior Foreign Service Officer, US Dept. of State, Foreign Service
 <!--
 - **TheKitty/TheKitty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
