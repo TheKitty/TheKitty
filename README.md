@@ -4,7 +4,7 @@
 * 🌱 I’m currently learning more Python
 * 👯 I’m looking to collaborate on [CircuitPython](https://circuitpython.org/)
 * :floppy_disk: I like to work on vintage computers, mainly IBM PC & XT and very early Compaqs.
-* :computer: I also like to work on modern PCs, usuallyas fast as I can get.
+* :computer: I also like to work on modern PCs, usually as fast as I can get.
 * :blue_book: I've written [two books](https://www.amazon.com/Anne-Barela/e/B00OA5RJIW) on learning to use microcontrollers
 * :heavy_plus_sign: I write and facilitate others writing [open source learning guides](https://learn.adafruit.com/) for Adafruit
 * 😄 Pronouns: she/her/hers
