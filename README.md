@@ -12,6 +12,9 @@
 * :cookie: Previously: Supervisory Security Engineer and Senior Foreign Service Officer, US Dept. of State, Foreign Service
 
 ### Statistics
+[![Repos](https://badges.pufler.dev/repos/thekitty)](https://github.com/thekitty?tab=repositories)
+[![Followers](https://img.shields.io/github/followers/thekitty?style=social)](https://github.com/thekitty?tab=followers)
+[![Profile Visitors](https://visitor-badge.glitch.me/badge?page_id=thekitty.profileviews-badge)](https://github.com/thekitty)
 
 <p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
