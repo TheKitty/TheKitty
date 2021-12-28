@@ -28,7 +28,7 @@
     <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thekitty&theme=dracula">
 </a>
 </p>
-
+<!--
 ### About languages used here
 
 <p align="center">
@@ -42,6 +42,6 @@
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thekitty&theme=github_dark">
 </a>
 </p>
-<!--
+
 - **TheKitty/TheKitty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 --!>
