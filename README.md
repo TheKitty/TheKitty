@@ -10,11 +10,8 @@
 * 😄 Pronouns: she/her/hers
 * ⚡ Fun fact: Languages in order of learning: FORTRAN, COBOL, BASIC, C, Python
 * :cookie: Previously: Security Engineer and Senior Foreign Service Officer, US Dept. of State, Foreign Service
-<!--
-- **TheKitty/TheKitty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
---!>
 
-### Some statistics
+### Statistics
 
 <p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -45,3 +42,6 @@
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thekitty&theme=github_dark">
 </a>
 </p>
+<!--
+- **TheKitty/TheKitty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+--!>
