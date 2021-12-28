@@ -9,7 +9,7 @@
 * :heavy_plus_sign: I write and facilitate others writing [open source learning guides](https://learn.adafruit.com/) for Adafruit
 * 😄 Pronouns: she/her/hers
 * ⚡ Fun fact: Languages in order of learning: FORTRAN, COBOL, BASIC, C, Python
-* :cookie: Previously: Security Engineer and Senior Foreign Service Officer, US Dept. of State, Foreign Service
+* :cookie: Previously: Supervisory Security Engineer and Senior Foreign Service Officer, US Dept. of State, Foreign Service
 
 ### Statistics
 
