@@ -14,12 +14,7 @@
 - **TheKitty/TheKitty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 --!>
 
-[![Repos](https://badges.pufler.dev/repos/ysard)](https://github.com/thekitty?tab=repositories)
-[![Followers](https://img.shields.io/github/followers/thekitty?style=social)](https://github.com/ysard?tab=followers)
-[![Profile Visitors](https://visitor-badge.glitch.me/badge?page_id=thekitty.profileviews-badge)](https://github.com/ysard)
-
 ### Some statistics
-
 
 <p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -50,7 +45,3 @@
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thekitty&theme=github_dark">
 </a>
 </p>
-
-### GitHub trophies
-
-[![](https://github-profile-trophy.vercel.app/?username=thekitty&theme=onedark&column=9)](https://github.com/thekitty/github-profile-trophy)
