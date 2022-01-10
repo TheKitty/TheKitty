@@ -45,7 +45,6 @@
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thekitty&theme=github_dark">
 </a>
 </p>
-[![](https://github-profile-trophy.vercel.app/?username=thekitty&theme=onedark&column=9)](https://github.com/thekitty/github-profile-trophy)
 <!--
 - **TheKitty/TheKitty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 --!>
