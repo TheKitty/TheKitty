@@ -1,4 +1,4 @@
-### Welcome weary travelers 👋
+### Hello 👋
 
 * 🔭 I publish the [Python on Microcontrollers](https://www.adafruitdaily.com/category/circuitpython/) Newsletter, [subscribe](https://www.adafruitdaily.com/) and see the repo/contribute [here](https://github.com/adafruit/circuitpython-weekly-newsletter).
 * 🌱 I’m currently learning more Python
