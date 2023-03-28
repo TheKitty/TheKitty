@@ -7,7 +7,7 @@
 * :floppy_disk: I like to work on vintage computers, mainly IBM PC, XT, AT, PS/2 and very early Compaqs.
 * :computer: I also like to work on modern PCs, usually as fast as I can get, such as my Threadripper 3960X, 64GB Ram, RTX 2080 Super video, two 4K LG monitors (one HDR) and one additional monitor.
 * :blue_book: I've written [two books](https://www.amazon.com/Anne-Barela/e/B00OA5RJIW) on learning to use microcontrollers
-* :rocket: Space enthusiast, [NASA Social](https://www.nasa.gov/connect/social/index.html) Alumna (Artemis I launch), JPL Intern (long ago)
+* :rocket: Space enthusiast, [NASA Social](https://www.nasa.gov/connect/social/index.html) Alumna (Artemis I launch), JPL Intern
 * :scroll: BS Electrical Engineering from Caltech, BA Mathematics/Phicocs from Whitman College
 * 😄 Pronouns: she/her/hers
 * :computer: Programming languages in order of learning: FORTRAN, COBOL, BASIC, Assembly, C, Python
