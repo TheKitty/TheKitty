@@ -8,6 +8,7 @@
 * :computer: I also like to work on modern PCs, usually as fast as I can get, such as my Threadripper 3960X, 64GB Ram, RTX 2080 Super video, two 4K LG monitors (one HDR) and one additional monitor.
 * :blue_book: I've written [two books](https://www.amazon.com/Anne-Barela/e/B00OA5RJIW) on learning to use microcontrollers
 * :heavy_plus_sign: I write and facilitate others writing [open source learning guides](https://learn.adafruit.com/) for Adafruit
+* :rocket: Space enthusiast, [NASA Social](https://www.nasa.gov/connect/social/index.html) Alumna (Artemis I launch), JPL Intern (long ago)
 * 😄 Pronouns: she/her/hers
 * ⚡ Fun fact: Languages in order of learning: FORTRAN, COBOL, BASIC, Assembly, C, Python
 * :cookie: Previously: Supervisory Security Engineer and Senior Foreign Service Officer, US Dept. of State, Foreign Service (Retired, 30 years)
