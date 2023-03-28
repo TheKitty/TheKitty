@@ -10,7 +10,7 @@
 * :rocket: Space enthusiast, [NASA Social](https://www.nasa.gov/connect/social/index.html) Alumna (Artemis I launch), JPL Intern (long ago)
 * :scroll: BS Electrical Engineering from Caltech, BA Mathematics/Phicocs from Whitman College
 * 😄 Pronouns: she/her/hers
-* ⚡ Fun fact: Languages in order of learning: FORTRAN, COBOL, BASIC, Assembly, C, Python
+* :computer: Programminganguages in order of learning: FORTRAN, COBOL, BASIC, Assembly, C, Python
 * :cookie: Previously: Supervisory Security Engineer and Senior Foreign Service Officer, US Dept. of State, Foreign Service (Retired, 30 years)
 
 ### Statistics
