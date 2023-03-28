@@ -9,7 +9,7 @@
 * :blue_book: I've written [two books](https://www.amazon.com/Anne-Barela/e/B00OA5RJIW) on learning to use microcontrollers
 * :heavy_plus_sign: I write and facilitate others writing [open source learning guides](https://learn.adafruit.com/) for Adafruit
 * 😄 Pronouns: she/her/hers
-* ⚡ Fun fact: Languages in order of learning: FORTRAN, COBOL, BASIC, C, Python
+* ⚡ Fun fact: Languages in order of learning: FORTRAN, COBOL, BASIC, Assembly, C, Python
 * :cookie: Previously: Supervisory Security Engineer and Senior Foreign Service Officer, US Dept. of State, Foreign Service (Retired, 30 years)
 
 ### Statistics
