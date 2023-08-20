@@ -4,14 +4,14 @@
 * 🌱 I’m currently learning more Python
 * 👯 I collaborate on [CircuitPython](https://circuitpython.org/)
 * :heavy_plus_sign: I write and facilitate others writing [open source learning guides](https://learn.adafruit.com/) for [Adafruit](https://www.adafruit.com/).
-* :floppy_disk: I like to work on vintage computers, mainly IBM PC, XT, AT, PS/2 and very early Compaqs.
+* :floppy_disk: I like to work on vintage computers, mainly [IBM PC](https://en.wikipedia.org/wiki/IBM_Personal_Computer), XT, AT, PS/2 and very early Compaqs.
 * :computer: I also like to work on modern PCs, usually as fast as I can get, such as my Threadripper 3960X, 64GB Ram, RTX 2080 Super video, two 4K LG monitors (one HDR) and one additional monitor.
 * :blue_book: I've written [two books](https://www.amazon.com/Anne-Barela/e/B00OA5RJIW) on learning to use microcontrollers
-* :rocket: Space enthusiast, [NASA Social](https://www.nasa.gov/connect/social/index.html) Alumna (Artemis I launch), JPL Intern
-* :scroll: BS Electrical Engineering from Caltech, BA Mathematics/Physics from Whitman College
+* :rocket: Space enthusiast, [NASA Social](https://www.nasa.gov/connect/social/index.html) Alumna (Artemis I launch), [JPL](https://en.wikipedia.org/wiki/Jet_Propulsion_Laboratory) Intern
+* :scroll: BS Electrical Engineering from [Caltech](https://en.wikipedia.org/wiki/California_Institute_of_Technology), BA Mathematics/Physics from [Whitman College](https://en.wikipedia.org/wiki/Whitman_College)
 * 😄 Pronouns: she/her/hers
 * :computer: Programming languages in order of learning: FORTRAN, COBOL, BASIC, Assembly, C, Python
-* :cookie: Previously: Supervisory Security Engineer and Senior Foreign Service Officer, US Dept. of State, Foreign Service (Retired, 30 years)
+* :cookie: Previously: Supervisory Security Engineer and Senior [Foreign Service Officer](https://en.wikipedia.org/wiki/Foreign_Service_officer), US [Dept. of State](https://en.wikipedia.org/wiki/United_States_Department_of_State), [Foreign Service](https://en.wikipedia.org/wiki/United_States_Foreign_Service) (Retired, 30 years)
 
 ### Statistics
 
