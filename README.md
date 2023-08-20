@@ -16,7 +16,7 @@
 ### Statistics
 
 [![Followers](https://img.shields.io/github/followers/thekitty?style=social)](https://github.com/thekitty?tab=followers)
-[![Profile Visitors](https://visitor-badge.glitch.me/badge?page_id=thekitty.profileviews-badge)](https://github.com/thekitty)
+![](https://api.visitorbadge.io/api/VisitorHit?user=thekitty&repo=github-visitors-badge&countColor=%237B1E7A)
 
 <p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
