@@ -5,7 +5,7 @@
 * 👯 I collaborate on [CircuitPython](https://circuitpython.org/)
 * :heavy_plus_sign: I write and facilitate others writing [open source learning guides](https://learn.adafruit.com/) for [Adafruit](https://www.adafruit.com/).
 * :floppy_disk: I like to work on vintage computers, mainly [IBM PC](https://en.wikipedia.org/wiki/IBM_Personal_Computer), XT, AT, PS/2 and very early Compaqs.
-* :computer: I also like to work on modern PCs, usually as fast as I can get, such as my Threadripper 3960X, 128GB Ram, RTX 2080 Super video, two 4K LG monitors (one HDR) and one additional monitor.
+* :computer: I also like to work on modern PCs, usually as fast as I can get, such as my Threadripper 3960X, 128GB RAM, RTX 2080 Super video, two 4K LG monitors (one HDR) and one additional monitor.
 * :blue_book: I've written [two books](https://www.amazon.com/Anne-Barela/e/B00OA5RJIW) on learning to use microcontrollers
 * :rocket: Space enthusiast, [NASA Social](https://www.nasa.gov/connect/social/index.html) Alumna (Artemis I launch), [JPL](https://en.wikipedia.org/wiki/Jet_Propulsion_Laboratory) Intern
 * :scroll: BS Electrical Engineering from [Caltech](https://en.wikipedia.org/wiki/California_Institute_of_Technology), BA Mathematics/Physics from [Whitman College](https://en.wikipedia.org/wiki/Whitman_College)
