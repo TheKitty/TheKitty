@@ -1,8 +1,7 @@
 ### Hello 👋
 
 * 🔭 I publish the [Python on Microcontrollers](https://www.adafruitdaily.com/category/circuitpython/) Newsletter, [subscribe](https://www.adafruitdaily.com/) and see the repo/contribute [here](https://github.com/adafruit/circuitpython-weekly-newsletter).
-* 🐍 I’m currently learning more Python
-* 👯 I collaborate on [CircuitPython](https://circuitpython.org/)
+* 👯 I program with and collaborate on [CircuitPython](https://circuitpython.org/)
 * :heavy_plus_sign: I write and facilitate others writing [open source learning guides](https://learn.adafruit.com/) for [Adafruit](https://www.adafruit.com/).
 * :floppy_disk: I like to work on vintage computers, mainly [IBM PC](https://en.wikipedia.org/wiki/IBM_Personal_Computer), XT, AT, PS/2 and very early Compaqs.
 * :computer: I also like to work on modern PCs, usually as fast as I can get, such as my Threadripper 3960X, 128GB RAM, RTX 2080 Super video, two 4K LG monitors (one HDR) and one additional monitor.
