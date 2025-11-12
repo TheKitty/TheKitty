@@ -10,7 +10,7 @@
 * :scroll: BS Electrical Engineering from [Caltech](https://en.wikipedia.org/wiki/California_Institute_of_Technology), BA Mathematics/Physics from [Whitman College](https://en.wikipedia.org/wiki/Whitman_College). Graduate education at the [US National Foreign Affairs Training Center](https://en.wikipedia.org/wiki/National_Foreign_Affairs_Training_Center).
 * 👸 Pronouns: she/her/hers
 * :computer: Programming languages in order of learning: FORTRAN, COBOL, BASIC, Assembly, C, Python
-* :cookie: Previously: Supervisory Security Engineer and [Senior Foreign Service Officer](https://en.wikipedia.org/wiki/Foreign_Service_officer), [US Dept. of State](https://en.wikipedia.org/wiki/United_States_Department_of_State), [Foreign Service](https://en.wikipedia.org/wiki/United_States_Foreign_Service) (Retired after 30 years of service)
+* :cookie: Previously: [Supervisory Security Engineer](https://www.state.gov/security-engineering-officers) and [Senior Foreign Service Officer](https://en.wikipedia.org/wiki/Foreign_Service_officer), [US Dept. of State](https://en.wikipedia.org/wiki/United_States_Department_of_State), [Foreign Service](https://en.wikipedia.org/wiki/United_States_Foreign_Service) (Retired after 30 years of service)
 
 ### Statistics
 
