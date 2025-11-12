@@ -7,7 +7,7 @@
 * :computer: I also like to work on modern PCs, usually as fast as I can get, such as my Threadripper 3960X, 128GB RAM, RTX 2080 Super video, two 4K LG monitors (one HDR) and one additional monitor.
 * :blue_book: I've written [two books](https://www.amazon.com/Anne-Barela/e/B00OA5RJIW) on learning to use microcontrollers
 * :rocket: Space enthusiast, [NASA Social](https://www.nasa.gov/connect/social/index.html) Alumna (Artemis I launch), [JPL](https://en.wikipedia.org/wiki/Jet_Propulsion_Laboratory) Intern
-* :scroll: BS Electrical Engineering from [Caltech](https://en.wikipedia.org/wiki/California_Institute_of_Technology), BA Mathematics/Physics from [Whitman College](https://en.wikipedia.org/wiki/Whitman_College)
+* :scroll: BS Electrical Engineering from [Caltech](https://en.wikipedia.org/wiki/California_Institute_of_Technology), BA Mathematics/Physics from [Whitman College](https://en.wikipedia.org/wiki/Whitman_College). Graduate education at the US [National Foreign Affairs Training Center](https://en.wikipedia.org/wiki/National_Foreign_Affairs_Training_Center).
 * 👸 Pronouns: she/her/hers
 * :computer: Programming languages in order of learning: FORTRAN, COBOL, BASIC, Assembly, C, Python
 * :cookie: Previously: Supervisory Security Engineer and Senior [Foreign Service Officer](https://en.wikipedia.org/wiki/Foreign_Service_officer), US [Dept. of State](https://en.wikipedia.org/wiki/United_States_Department_of_State), [Foreign Service](https://en.wikipedia.org/wiki/United_States_Foreign_Service) (Retired after 30 years of service)
